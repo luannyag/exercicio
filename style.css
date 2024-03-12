@@ -1,0 +1,52 @@
+
+header{
+    margin: 1%;
+    width: 77%;
+    height: 200px;
+    background-color: #ffe9cd;
+}
+
+nav{
+    margin: 1%;
+    width: 77%;
+    height: 100px;
+    background-color: #bfe9ff;
+}
+
+section{
+    margin: 1%;
+    width: 50%;
+    height: 180px;
+    background-color: #f8d7d0;
+    float: right;
+    
+}
+
+article{
+    margin: 1%;
+    width: 25%;
+    height: 400px;
+    background-color: #f19ca2;
+    float: left;
+}
+
+aside{
+    margin: 1%;
+    width: 19%;
+    height: 780px;
+    background-color: #b7d7d9;
+    float: right;
+}
+
+footer{
+    margin: 1%;
+    width: 100%;
+    height: 200px;
+    background-color: #ffe9cd;
+    float: inline-end;
+}
+
+
+
+
+
